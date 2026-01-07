@@ -1,0 +1,2 @@
+cd ..
+java -cp ".;..\lib\*" airlinemanagementsystem.Login
